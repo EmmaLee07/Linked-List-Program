@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=JavaLinkedList
+comment1.params=
+comment1.target=JavaLinkedList()
+comment2.params=elements
+comment2.target=JavaLinkedList(int[])
+comment3.params=
+comment3.target=double\ getSum()
+comment4.params=
+comment4.target=double\ getMean()
+comment5.params=
+comment5.target=int\ getLargest()
+comment6.params=
+comment6.target=int\ getSmallest()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
